@@ -2,5 +2,7 @@
 name = "cv_just_prerelease"
 version = "0.1.0-b.0"
 edition = "2024"
+license = "MIT"
+description = "A crate with just pre-release versions"
 
 [dependencies]
