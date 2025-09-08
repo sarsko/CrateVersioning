@@ -12,7 +12,7 @@ dependencies = [
 
 [[package]]
 name = "cv_just_prerelease"
-version = "0.1.0-a.1"
+version = "0.1.0-a.99"
 
 [[package]]
 name = "cv_just_prerelease"
