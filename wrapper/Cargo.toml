@@ -1,0 +1,9 @@
+[package]
+name = "cv_wrapper"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "A crate which just wraps cv_just_prerelease"
+
+[dependencies]
+cv_just_prerelease = "0.1.0-b.0"
