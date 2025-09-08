@@ -1,3 +1,3 @@
 pub fn a() {
-    println!("b.1");
+    println!("a.0");
 }
