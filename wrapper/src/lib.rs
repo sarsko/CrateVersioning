@@ -1,1 +1,1 @@
-pub use cv_just_prerelease;
+pub use cv_just_prerelease::*;
