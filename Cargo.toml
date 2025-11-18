@@ -1,3 +1,3 @@
 [workspace]
 resolver = "3"
-members = [ "depender","just_prerelease", "wrapper"]
+members = [ "depender","just_prerelease", "wrapper", "nested", "nested/nested_impl"]

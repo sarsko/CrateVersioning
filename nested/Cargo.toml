@@ -1,0 +1,9 @@
+[package]
+name = "cv_nested"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "A crate which just wraps cv_nested_impl"
+
+[dependencies]
+cv_nested_impl = { version = "*", path = "nested_impl" }

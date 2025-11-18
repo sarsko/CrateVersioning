@@ -7,6 +7,7 @@ name = "cv_depender"
 version = "0.1.0"
 dependencies = [
  "cv_just_prerelease 0.1.0-b.2",
+ "cv_nested",
  "cv_wrapper 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
@@ -19,6 +20,17 @@ name = "cv_just_prerelease"
 version = "0.1.0-b.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "cb94ebed9b7e2d46c192470cfea988cee1eb20ae8a304d0bd2a19fc2f3e180ae"
+
+[[package]]
+name = "cv_nested"
+version = "0.1.0"
+dependencies = [
+ "cv_nested_impl",
+]
+
+[[package]]
+name = "cv_nested_impl"
+version = "0.1.0"
 
 [[package]]
 name = "cv_wrapper"

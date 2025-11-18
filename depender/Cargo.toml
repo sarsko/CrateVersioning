@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 cv_wrapper = "0.1.1"
 cv_just_prerelease = "0.1.0-a.99"
+cv_nested = { version = "0.1.0", path = "../nested" }
