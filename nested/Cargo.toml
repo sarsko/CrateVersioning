@@ -6,4 +6,4 @@ license = "MIT"
 description = "A crate which just wraps cv_nested_impl"
 
 [dependencies]
-cv_nested_impl = { version = "*", path = "nested_impl" }
+cv_nested_impl = { version = "0.1.0 ", path = "nested_impl" }
