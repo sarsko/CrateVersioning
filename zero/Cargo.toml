@@ -1,0 +1,8 @@
+[package]
+name = "cv_zero"
+version = "0.0.0"
+edition = "2024"
+license = "MIT"
+description = "A crate with version 0"
+
+[dependencies]

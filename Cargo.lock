@@ -62,3 +62,7 @@ checksum = "2d9c700d10a4883257abb4fc5494e57e86493b6521899250c4c6620361aba28a"
 dependencies = [
  "cv_just_prerelease 0.1.0-b.2",
 ]
+
+[[package]]
+name = "cv_zero"
+version = "0.0.0"
